@@ -1,5 +1,5 @@
 ﻿# NFGameUtilities
-  Repository containing evrything created from me researching how to use slate.
+  Repository containing evrything created from my research on how to use slate in Unreal Engine.
 
   Created by Nicky Fieu.<br/>
   [Porfolio Website](https://nickyfieu.myportfolio.com/work)<br/>
