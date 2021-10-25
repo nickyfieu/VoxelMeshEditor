@@ -1,0 +1,38 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "NFGameUtilities",
+  "Description": "Game creation tools created by Nicky Fieu",
+  "Category": "Tools",
+  "CreatedBy": "NickyFieu",
+  "CreatedByURL": "https://nickyfieu.myportfolio.com/",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "NFToolEditorExtensionEditor",
+      "Type": "Editor"
+    },
+    {
+      "Name": "NFToolEditorExtensionRuntime",
+      "Type": "Runtime",
+      "LoadingPhase": "PreDefault"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "ProceduralMeshComponent",
+      "Enabled": true
+    },
+    {
+      "Name": "EditorScriptingUtilities",
+      "Enabled": true
+    }
+  ]
+}
