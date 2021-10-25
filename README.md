@@ -28,4 +28,4 @@
        - Saving, Loading, Exporting  of assets<br/>
        - Custom style<br/>
   [Voxel Mesh Editor Code](https://github.com/nickyfieu/VoxelMeshEditor/tree/Dev/Source/NFToolEditorExtensionEditor/Private/VoxelMeshEditor)<br/>
-  [![Voxel Mesh Editor in use video](https://imgur.com/e4ulTfQ)](https://youtu.be/KyUUaT8eIU0)
+  [![Voxel Mesh Editor in use video](https://img.youtube.com/vi/KyUUaT8eIU0/maxresdefault.jpg)](https://youtu.be/KyUUaT8eIU0)
