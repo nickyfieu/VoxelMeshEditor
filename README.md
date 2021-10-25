@@ -1,8 +1,8 @@
 # NFGameUtilities
   Repository containing evrything created from me researching how to use slate.
 
-  Created by Nicky Fieu.
-  [Porfolio](https://nickyfieu.myportfolio.com/work)
+  Created by Nicky Fieu.\n
+  [Porfolio Website](https://nickyfieu.myportfolio.com/work)\n
   [LinkedIn](https://www.linkedin.com/in/nicky-f-986552195/)
 
 ## MenuTool
