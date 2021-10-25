@@ -4,6 +4,7 @@
   Created by Nicky Fieu.<br/>
   > ***[Porfolio Website](https://nickyfieu.myportfolio.com/work)***<br/>
   > ***[LinkedIn](https://www.linkedin.com/in/nicky-f-986552195/)***<br/>
+  > ***[Resume](https://nickyfieu.myportfolio.com/resume)***<br/>
 ## MenuTool
   Simple editor UI extension that adds simple tag adding, removing and actor selecting funcionality under the main NFTools pulldown menu.<br/>
   > ***[Menu Tool Code](https://github.com/nickyfieu/VoxelMeshEditor/tree/Dev/Source/NFToolEditorExtensionEditor/Private/MenuTool)***<br/>
